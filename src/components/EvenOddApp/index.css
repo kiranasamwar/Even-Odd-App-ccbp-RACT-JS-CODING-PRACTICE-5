@@ -1,0 +1,29 @@
+.bg-container {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.head1 {
+  font-size: 50px;
+  font-family: 'roboto';
+}
+
+.head2 {
+  font-family: 'roboto';
+  font-weight: 400;
+}
+.button {
+  height: 50px;
+  width: 250px;
+  border: none;
+  border-radius: 12px;
+  font-size: 20px;
+  background-color: #ffffff;
+}
+.para {
+  font-family: 'roboto';
+}
